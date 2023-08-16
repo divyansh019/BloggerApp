@@ -1,3 +1,4 @@
+# BloggerApp
 # Full Stack Blogging Website
 The project consists of two separate applications that run in parallel to each other:
 
@@ -25,5 +26,5 @@ React hooks provide a way to consume APIs and convert the returned data into JSO
 
 
 This allows for easy storage and retrieval of all the blog data.
-# BloggerApp
-# BloggerApp
+
+
